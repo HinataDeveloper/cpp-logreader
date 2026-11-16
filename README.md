@@ -1,2 +1,3 @@
-# cpp-logreader
-log reader by c++ language
+# Log Reader by C++ Programming Language.
+
+## log reader by c++ language
